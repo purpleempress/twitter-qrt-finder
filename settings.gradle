@@ -1,0 +1,2 @@
+rootProject.name='QRT Finder for Twitter'
+include ':app'

@@ -1,3 +1,5 @@
+# Update: Twitter has implemented this functionality natively so this repository is now archived.
+---
 # Twitter QRT Finder
 
 Very simple Android app to find quote retweets on Twitter through use of a Share intent.
